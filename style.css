@@ -540,7 +540,10 @@ footer .right .links p{
         width: 45%;
     }
     .nft-shop .category{
-        font-size: 12px;
+        display: flexbox;
+        flex-direction: column;   
+        gap: 10px;
+             
     } 
     
     footer .links a{
